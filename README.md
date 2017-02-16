@@ -1,5 +1,5 @@
 # test
-branch dev
+branch dev\n
 git test
 \n hxm branch \n
 this is changed by branch dev
