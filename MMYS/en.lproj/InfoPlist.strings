@@ -1,0 +1,5 @@
+/* Localized versions of Info.plist keys */
+CFBundleName = "米麦云商";
+CFBundleDisplayName = "米麦云商";
+NSLocationAlwaysUsageDescription = "";
+NSLocationWhenInUseUsageDescription = "";
